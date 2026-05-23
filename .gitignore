@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+
+outputs/
+uploads/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+
+models/*.pth
